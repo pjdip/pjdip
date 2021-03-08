@@ -11,6 +11,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+- 📄 <a href="https://pjdip.github.io/Portfolio/assets/Resume_Philip_DiPaula.pdf">Resume</a>
 
 ## About Me
 
@@ -75,6 +76,12 @@
 <a align=left href='https://www.chartjs.org/'>
   <img alt="Handlebars" width="40px" src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" />
 </a>
+
+### Let's Connect!
+
+- LinkedIn: <a href="https://www.linkedin.com/in/philip-pj-dipaula/" target="_blank">Philip DiPaula</a>
+- Portfolio: <a href="https://pjdip.github.io/Portfolio/" target="_blank">Portfolio</a>
+- Email: <a href="mailto:pjdip1@gmail.com" target="_blank">pjdip1@gmail.com</a>
 
 ### GitHub Stats
 
