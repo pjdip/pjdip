@@ -16,11 +16,13 @@
 - ⚡ Fun fact: 
   - I've been to over 20 countries
   - I spent March - August 2020 in Morocco
-  - I've seen Black Moth Super Rainbow/Tobacco in concert over 10 times in 5 states and DC
+  - I've seen <a href='https://blackmothsuperrainbow.bandcamp.com/music' target="_blank">Black Moth Super Rainbow</a>/<a href="https://www.npr.org/2019/09/26/764812372/tobacco" target="_blank">Tobacco</a> in concert over 10 times in 5 states and DC
 - 📄 <a href="https://pjdip.github.io/Portfolio/assets/Resume_Philip_DiPaula.pdf">Resume</a>
 - 🎨 <a href="https://pjdip.github.io/Portfolio/" target="_blank">Portfolio</a>
 
 ## About Me
+
+I'm somewhat of a generalist. I have a B.S. in Mathematics and a B.S. in Chemistry from the University of Maryland, Baltimore County (UMBC). While I was there (2009 - 2014), I also minored in Physics and Philosophy and managed to pick up a little Python. I have most recently fallen down the cryptocurrency rabbit hole. I believe that decentralization has a key role to play in a more open, inclusive, and democratized future.
 
 ### Tech Stack
 
