@@ -6,12 +6,19 @@
 -->
 
 - 🔭 I’m currently working on self-actualization
-- 🌱 I’m currently learning: Web-Development, Cryptocurrency, Finance
+- 🌱 I’m currently learning:
+  - 💻 Web-Development 💻
+  - 🤑 Cryptocurrency 🤑
+  - 📈 Finance 📉
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+  - I've been to over 20 countries
+  - I spent March - August 2020 in Morocco
+  - I've seen Black Moth Super Rainbow/Tobacco in concert over 10 times in 5 states and DC
 - 📄 <a href="https://pjdip.github.io/Portfolio/assets/Resume_Philip_DiPaula.pdf">Resume</a>
+- 🎨 <a href="https://pjdip.github.io/Portfolio/" target="_blank">Portfolio</a>
 
 ## About Me
 
@@ -80,7 +87,6 @@
 ### Let's Connect!
 
 - LinkedIn: <a href="https://www.linkedin.com/in/philip-pj-dipaula/" target="_blank">Philip DiPaula</a>
-- Portfolio: <a href="https://pjdip.github.io/Portfolio/" target="_blank">Portfolio</a>
 - Email: <a href="mailto:pjdip1@gmail.com" target="_blank">pjdip1@gmail.com</a>
 
 ### GitHub Stats
