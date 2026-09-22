@@ -25,6 +25,7 @@
   - I've seen <a href='https://blackmothsuperrainbow.bandcamp.com/music' target="_blank">Black Moth Super Rainbow</a>/<a href="https://www.npr.org/2019/09/26/764812372/tobacco" target="_blank">Tobacco</a> in concert over 10 times in 5 states and DC
 - 📄 <a href="https://pjdip.github.io/Portfolio/assets/Resume_Philip_DiPaula.pdf">Resume</a>
 - 🎨 <a href="https://pjdip.github.io/Portfolio/" target="_blank">Portfolio</a>
+- 🎨 <a href="https://pjdip.github.io/ReactPortfolio/" target="_blank">React Portfolio</a>
 
 ## About Me
 
