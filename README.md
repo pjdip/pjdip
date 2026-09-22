@@ -7,22 +7,28 @@
 
 - 🔭 I’m currently working on self-actualization
 - 🌱 I’m currently learning:
-  - 💻 Web-Development 💻
-  - 🤑 Cryptocurrency 🤑
-  - 📈 Finance 📉
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  - How to live with my partner
+  - How to leverage AI to pursue my goals
+- 👯 I’m looking to collaborate on:
+  - building a trading bot
+- 🤔 I’m looking for help with
+  - finding a job
+- 💬 Ask me about
+  - my time in Morocco
+  - my dog
+  - my amazing partner
+  - my recent move to LA
 - ⚡ Fun fact: 
   - I've been to over 20 countries
   - I spent March - August 2020 in Morocco
+  - I enjoy disc golfing
   - I've seen <a href='https://blackmothsuperrainbow.bandcamp.com/music' target="_blank">Black Moth Super Rainbow</a>/<a href="https://www.npr.org/2019/09/26/764812372/tobacco" target="_blank">Tobacco</a> in concert over 10 times in 5 states and DC
 - 📄 <a href="https://pjdip.github.io/Portfolio/assets/Resume_Philip_DiPaula.pdf">Resume</a>
 - 🎨 <a href="https://pjdip.github.io/Portfolio/" target="_blank">Portfolio</a>
 
 ## About Me
 
-I'm somewhat of a generalist. I have a B.S. in Mathematics and a B.S. in Chemistry from the University of Maryland, Baltimore County (UMBC). While I was there (2009 - 2014), I also minored in Physics and Philosophy and managed to pick up a little Python. I have most recently fallen down the cryptocurrency rabbit hole. I believe that decentralization has a key role to play in a more open, inclusive, and democratized future.
+I have a B.S. in Mathematics and a B.S. in Chemistry from the University of Maryland, Baltimore County (UMBC). While I was there (2009 - 2014) I also minored in Physics and Philosophy and managed to pick up a little Python. After returning from Morocco, I took a full-stack web development bootcamp at OSU, where i built on the Python that I learned at UMBC and added a number of other skills to my technology stack. I have most recently found myself deeply interested in health, finance, and the psychology and systems that underly these things both on an individual basis and at a societal level. I believe that decentralization has a key role to play in a more open, inclusive, and democratized future.
 
 ### Tech Stack
 
