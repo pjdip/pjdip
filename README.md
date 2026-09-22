@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on self-actualization
 - 🌱 I’m currently learning:
-  - How to live with my partner
+  - How to live in a small space with my partner
   - How to leverage AI to pursue my goals
 - 👯 I’m looking to collaborate on:
   - building a trading bot
